@@ -10,6 +10,7 @@ This is a new ready to use Phoenix v1.5.3 (Elixir) project including a Postgresq
 ## Usage
 
 ```bash
+$ mix deps.get
 $ docker-compose up
 ```
 
